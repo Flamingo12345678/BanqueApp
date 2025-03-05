@@ -21,8 +21,8 @@ Cette application en Swift simule une banque avec des fonctionnalités essentiel
 
 1. Clonez ce dépôt ou téléchargez les fichiers du projet :
    ```bash
-   git clone https://github.com/Flamingo12345678/BanqueSwiftApp
-   cd BanqueSwiftApp
+   git clone https://github.com/Flamingo12345678/BanqueApp
+   cd BanqueApp
    ```
 2. Ouvrez le projet dans Xcode.
 3. Exécutez l'application sur un simulateur ou un appareil iOS.
